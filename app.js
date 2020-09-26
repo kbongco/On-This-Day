@@ -3,3 +3,5 @@ todaysDate = () => {
 }
 
 todaysDate()
+
+eventURL = 'http://history.muffinlabs.com/date'
