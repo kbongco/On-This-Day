@@ -5,3 +5,7 @@
 body{
   background:url('assets/background.jpg')
 }
+
+h1{
+  text-align:center;
+}
